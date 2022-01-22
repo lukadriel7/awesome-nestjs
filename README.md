@@ -254,6 +254,7 @@
 - [NestJS PG Notify](https://github.com/pvarentsov/nestjs-pg-notify) - NestJS custom transport strategy for PostgreSQL Pub/Sub.
 - [Nestjs Transport Eventbus](https://github.com/sergey-telpuk/nestjs-transport-eventbus) - The module for Nest to allow broadcasting events via variety of nestjs trasports in easy way
 - [NestJS Google Cloud Pub/Sub Microservice Transport](https://github.com/p-fedyukovich/nestjs-google-pubsub-microservice) - Custom Google Cloud Pub/Sub microservice transport
+- [NestJS RabbitMQ Transporter](https://github.com/lukadriel7/nestjs-rabbitmq-transporter) - A rabbitmq transporter allowing the use of exchanges
 
 #### Database
 
